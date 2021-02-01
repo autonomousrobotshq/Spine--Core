@@ -6,4 +6,4 @@ set -e
 # pull in external repositories
 
 # pull in internal repositories
-#git clone https://github.com/autonomousrobotshq/Spine--[REPONAME]
+git clone https://github.com/autonomousrobotshq/Spine--Debugging
